@@ -72,5 +72,5 @@ Many .NET open source projects are part of the
 Check out the [.NET Foundation Forums](https://forums.dotnetfoundation.org/) to see what others are talking about, or start a new discussion to ask a question or make a point. 
 
 ## License
-
+ 
 This repository is licensed with the [MIT](LICENSE) license.
